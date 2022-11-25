@@ -1,4 +1,4 @@
-RandomizedSearchCV
+LogisticRegression
 
 RandomForestClassifier
 
